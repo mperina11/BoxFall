@@ -1,9 +1,9 @@
 # BoxFall
 
-Avoid the falling boxes
+![screenshot](./Images/screenshot.png)
 
-To Do
-- Adjust # of boxes
-- Anims for player
+## Description
+Avoid the falling boxes
+- click mouse / SPACE bar to change direction
 
 ## [Playable Link](https://mperina11.github.io/BoxFall/)
